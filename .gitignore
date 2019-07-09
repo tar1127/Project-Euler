@@ -1,0 +1,4 @@
+venv/
+.idea/
+scrap.py
+*.exe
